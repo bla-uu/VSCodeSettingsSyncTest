@@ -27,6 +27,12 @@
 # Visual Studio cache directory
 .vs/
 
+# Visual Studio Code Workspaces
+*.code-workspace
+
+# Unity layouts
+*.wlt
+
 # Gradle cache directory
 .gradle/
 
